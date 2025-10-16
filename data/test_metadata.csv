@@ -1,0 +1,201 @@
+chip_id,location,datetime,cloudpath
+aege,Chifunfu,2020-04-29T08:20:47Z,az://./train_features/aege
+aejg,Chifunfu,2020-04-29T08:20:47Z,az://./train_features/aejg
+aftu,Chifunfu,2020-04-29T08:20:47Z,az://./train_features/aftu
+afxz,Chifunfu,2020-04-29T08:20:47Z,az://./train_features/afxz
+aiod,Chifunfu,2020-04-29T08:20:47Z,az://./train_features/aiod
+ajuh,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/ajuh
+akny,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/akny
+algw,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/algw
+almq,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/almq
+andu,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/andu
+annw,Addis Ababa,2020-09-10T07:57:42Z,az://./train_features/annw
+anpr,Bahir Dar,2020-09-08T08:06:56Z,az://./train_features/anpr
+aums,Chingola,2020-07-26T08:33:40Z,az://./train_features/aums
+aunf,Chingola,2020-07-26T08:33:40Z,az://./train_features/aunf
+auyb,Chingola,2020-07-26T08:33:40Z,az://./train_features/auyb
+bgdo,Paijan,2020-09-08T15:45:25Z,az://./train_features/bgdo
+bgjn,Paijan,2020-09-08T15:45:25Z,az://./train_features/bgjn
+bgjx,Paijan,2020-09-08T15:45:25Z,az://./train_features/bgjx
+bijs,Paijan,2020-09-08T15:45:25Z,az://./train_features/bijs
+brqm,Chibemba,2020-04-07T09:24:59Z,az://./train_features/brqm
+bunu,Chibemba,2020-04-07T09:24:59Z,az://./train_features/bunu
+bwdd,Adelaide,2020-09-11T00:56:48Z,az://./train_features/bwdd
+bwos,Adelaide,2020-09-11T00:56:48Z,az://./train_features/bwos
+bwtj,Adelaide,2020-09-11T00:56:48Z,az://./train_features/bwtj
+cddr,Para,2020-09-10T13:53:38Z,az://./train_features/cddr
+cmbh,Bechar,2019-11-12T11:02:20Z,az://./train_features/cmbh
+cndj,Chingola,2020-05-07T08:33:36Z,az://./train_features/cndj
+cosa,Chingola,2020-05-07T08:33:36Z,az://./train_features/cosa
+cqbi,Chingola,2020-05-07T08:33:36Z,az://./train_features/cqbi
+cqyv,Chingola,2020-05-07T08:33:36Z,az://./train_features/cqyv
+csma,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/csma
+cssm,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/cssm
+ctbl,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/ctbl
+ctfm,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/ctfm
+cutq,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/cutq
+cuyt,Chifunfu,2020-04-24T08:20:39Z,az://./train_features/cuyt
+dbfz,Matadi,2020-08-08T09:32:23Z,az://./train_features/dbfz
+ddok,Matadi,2020-08-08T09:32:23Z,az://./train_features/ddok
+desw,Matadi,2020-08-08T09:32:23Z,az://./train_features/desw
+dfxv,Matadi,2020-08-08T09:32:23Z,az://./train_features/dfxv
+dimt,Timbuktu,2019-02-19T10:46:29Z,az://./train_features/dimt
+dipv,Timbuktu,2019-02-19T10:46:29Z,az://./train_features/dipv
+ditt,Timbuktu,2019-02-19T10:46:29Z,az://./train_features/ditt
+dmoz,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dmoz
+dncd,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dncd
+dovy,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dovy
+dphy,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dphy
+dple,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dple
+dplj,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dplj
+dqhk,Eswatini,2020-09-10T08:07:48Z,az://./train_features/dqhk
+dvdb,Porto Velho,2020-09-12T14:35:14Z,az://./train_features/dvdb
+dwhb,Porto Velho,2020-09-12T14:35:14Z,az://./train_features/dwhb
+dxfe,Porto Velho,2020-09-12T14:35:14Z,az://./train_features/dxfe
+ekmh,Jimma,2020-05-31T08:07:58Z,az://./train_features/ekmh
+elop,Jimma,2020-05-31T08:07:58Z,az://./train_features/elop
+empl,Jimma,2020-05-31T08:07:58Z,az://./train_features/empl
+eocy,Jimma,2020-05-31T08:07:58Z,az://./train_features/eocy
+eogn,Jimma,2020-05-31T08:07:58Z,az://./train_features/eogn
+eojt,Jimma,2020-05-31T08:07:58Z,az://./train_features/eojt
+eubo,Cordoba,2020-09-11T14:21:46Z,az://./train_features/eubo
+exhk,Vitoria,2020-09-02T12:57:49Z,az://./train_features/exhk
+ezdd,Vitoria,2020-09-02T12:57:49Z,az://./train_features/ezdd
+falo,Vitoria,2020-09-02T12:57:49Z,az://./train_features/falo
+fobh,Canary Islands,2020-09-02T11:53:46Z,az://./train_features/fobh
+fovx,Canary Islands,2020-09-02T11:53:46Z,az://./train_features/fovx
+gjao,Alexander Bay,2020-09-05T08:58:43Z,az://./train_features/gjao
+gqqx,Bambesa,2020-08-11T08:49:31Z,az://./train_features/gqqx
+gqrp,Bambesa,2020-08-11T08:49:31Z,az://./train_features/gqrp
+gsxm,Bambesa,2020-08-11T08:49:31Z,az://./train_features/gsxm
+gtjx,Bambesa,2020-08-11T08:49:31Z,az://./train_features/gtjx
+gtxp,Bambesa,2020-08-11T08:49:31Z,az://./train_features/gtxp
+hoas,South America - Brazil,2020-09-06T15:02:37Z,az://./train_features/hoas
+hqrx,South America - Brazil,2020-09-06T15:02:37Z,az://./train_features/hqrx
+hspi,South America - Brazil,2020-09-06T15:02:37Z,az://./train_features/hspi
+huzp,Adi Ramets,2020-09-03T08:06:14Z,az://./train_features/huzp
+hwst,Adi Ramets,2020-09-03T08:06:14Z,az://./train_features/hwst
+hxpx,Eritrea,2020-09-03T08:05:42Z,az://./train_features/hxpx
+hylt,Eritrea,2020-09-03T08:05:42Z,az://./train_features/hylt
+hzyh,Eritrea,2020-09-03T08:05:42Z,az://./train_features/hzyh
+iwss,Senanga,2019-12-17T08:44:40Z,az://./train_features/iwss
+ixmt,Senanga,2019-12-17T08:44:40Z,az://./train_features/ixmt
+ixon,Senanga,2019-12-17T08:44:40Z,az://./train_features/ixon
+ixpq,Senanga,2019-12-17T08:44:40Z,az://./train_features/ixpq
+ixzb,Senanga,2019-12-17T08:44:40Z,az://./train_features/ixzb
+iyzh,Senanga,2019-12-17T08:44:40Z,az://./train_features/iyzh
+jaux,Juba,2020-09-14T08:28:49Z,az://./train_features/jaux
+jbck,Juba,2020-09-14T08:28:49Z,az://./train_features/jbck
+jcmq,Juba,2020-09-14T08:28:49Z,az://./train_features/jcmq
+jdib,Juba,2020-09-14T08:28:49Z,az://./train_features/jdib
+jeik,Juba,2020-09-14T08:28:49Z,az://./train_features/jeik
+jfca,Juba,2020-09-14T08:28:49Z,az://./train_features/jfca
+juvs,Australia - Central West,2020-09-02T02:06:04Z,az://./train_features/juvs
+jwzk,Australia - Central West,2020-09-02T02:06:04Z,az://./train_features/jwzk
+jyak,Australia - Central West,2020-09-02T02:06:04Z,az://./train_features/jyak
+khlo,Eswatini,2020-09-12T07:57:18Z,az://./train_features/khlo
+ksuc,Santa Cruz do Sul,2020-09-09T13:40:39Z,az://./train_features/ksuc
+lcao,Kalamie,2020-07-11T08:31:54Z,az://./train_features/lcao
+lcge,Kalamie,2020-07-11T08:31:54Z,az://./train_features/lcge
+lrax,Bunbury,2020-08-29T02:27:00Z,az://./train_features/lrax
+lsjc,Rio Branco,2020-09-04T13:41:40Z,az://./train_features/lsjc
+lvxl,Monongue,2020-03-30T09:14:36Z,az://./train_features/lvxl
+lwcv,Monongue,2020-03-30T09:14:36Z,az://./train_features/lwcv
+lwww,Monongue,2020-03-30T09:14:36Z,az://./train_features/lwww
+lxmt,Monongue,2020-03-30T09:14:36Z,az://./train_features/lxmt
+lyef,Monongue,2020-03-30T09:14:36Z,az://./train_features/lyef
+main,Monongue,2020-03-30T09:14:36Z,az://./train_features/main
+mdbl,Riobamba,2020-09-08T15:43:40Z,az://./train_features/mdbl
+msxr,Kolwezi,2020-04-30T08:43:07Z,az://./train_features/msxr
+mtiy,Kolwezi,2020-04-30T08:43:07Z,az://./train_features/mtiy
+mugi,Kolwezi,2020-04-30T08:43:07Z,az://./train_features/mugi
+myfr,Macapa,2020-09-10T13:52:40Z,az://./train_features/myfr
+naoj,Macapa,2020-09-10T13:52:40Z,az://./train_features/naoj
+naqj,Macapa,2020-09-10T13:52:40Z,az://./train_features/naqj
+nbip,Macapa,2020-09-10T13:52:40Z,az://./train_features/nbip
+nbws,Macapa,2020-09-10T13:52:40Z,az://./train_features/nbws
+ndek,Pibor,2020-08-17T08:18:22Z,az://./train_features/ndek
+neox,Pibor,2020-08-17T08:18:22Z,az://./train_features/neox
+nfft,Pibor,2020-08-17T08:18:22Z,az://./train_features/nfft
+nkfr,South America - Peru,2020-06-17T15:35:43Z,az://./train_features/nkfr
+nlks,South America - Peru,2020-06-17T15:35:43Z,az://./train_features/nlks
+nlyd,South America - Peru,2020-06-17T15:35:43Z,az://./train_features/nlyd
+nmhg,South America - Peru,2020-06-17T15:35:43Z,az://./train_features/nmhg
+occm,Manaus,2020-09-12T14:33:37Z,az://./train_features/occm
+odeh,Manaus,2020-09-12T14:33:37Z,az://./train_features/odeh
+odob,Manaus,2020-09-12T14:33:37Z,az://./train_features/odob
+pdfm,Lodwar,2020-09-08T08:09:15Z,az://./train_features/pdfm
+phwp,Canary Islands,2020-05-15T11:53:46Z,az://./train_features/phwp
+qann,Paraguay,2020-09-03T14:09:18Z,az://./train_features/qann
+qivq,Cabo Verdo,2018-11-08T12:17:04Z,az://./train_features/qivq
+qjwj,Cabo Verdo,2018-11-08T12:17:04Z,az://./train_features/qjwj
+qkhm,Cabo Verdo,2018-11-08T12:17:04Z,az://./train_features/qkhm
+qllh,Cabo Verdo,2018-11-08T12:17:04Z,az://./train_features/qllh
+qlun,Cabo Verdo,2018-11-08T12:17:04Z,az://./train_features/qlun
+qxzh,Lusaka,2020-08-22T08:24:41Z,az://./train_features/qxzh
+qzpo,Lusaka,2020-08-22T08:24:41Z,az://./train_features/qzpo
+rqut,Malabo,2020-09-06T10:00:03Z,az://./train_features/rqut
+rrif,Malabo,2020-09-06T10:00:03Z,az://./train_features/rrif
+rudo,Malabo,2020-09-06T10:00:03Z,az://./train_features/rudo
+ruij,Malabo,2020-09-06T10:00:03Z,az://./train_features/ruij
+rvao,Malabo,2020-09-06T10:00:03Z,az://./train_features/rvao
+rwcz,South America - Argentina,2020-07-27T14:08:06Z,az://./train_features/rwcz
+ryvm,Ghana,2019-02-16T10:39:11Z,az://./train_features/ryvm
+ryzr,Ghana,2019-02-16T10:39:11Z,az://./train_features/ryzr
+sgmm,San Lorenzo,2020-09-03T15:42:56Z,az://./train_features/sgmm
+sgwa,San Lorenzo,2020-09-03T15:42:56Z,az://./train_features/sgwa
+sjcv,San Lorenzo,2020-09-03T15:42:56Z,az://./train_features/sjcv
+slgr,San Lorenzo,2020-09-03T15:42:56Z,az://./train_features/slgr
+slku,San Lorenzo,2020-09-03T15:42:56Z,az://./train_features/slku
+snrk,Santa Cruz de la Sierra,2020-09-02T14:37:29Z,az://./train_features/snrk
+spxp,Santa Cruz de la Sierra,2020-09-02T14:37:29Z,az://./train_features/spxp
+sxjx,Timbuktu,2019-09-20T10:56:32Z,az://./train_features/sxjx
+syce,Timbuktu,2019-09-20T10:56:32Z,az://./train_features/syce
+tbca,Timbuktu,2019-09-20T10:56:32Z,az://./train_features/tbca
+tfht,Australia - North West,2020-07-12T01:20:39Z,az://./train_features/tfht
+tjcv,Australia - North West,2020-07-12T01:20:39Z,az://./train_features/tjcv
+tjpr,Australia - North West,2020-07-12T01:20:39Z,az://./train_features/tjpr
+usvt,Bambesa,2020-09-10T08:49:30Z,az://./train_features/usvt
+vccf,Nairobi,2020-04-03T08:00:21Z,az://./train_features/vccf
+vcno,Nairobi,2020-04-03T08:00:21Z,az://./train_features/vcno
+vcxx,Nairobi,2020-04-03T08:00:21Z,az://./train_features/vcxx
+vedi,Nairobi,2020-04-03T08:00:21Z,az://./train_features/vedi
+vgdj,San Sabastian de La Gomera,2020-08-23T11:53:50Z,az://./train_features/vgdj
+vglr,San Sabastian de La Gomera,2020-08-23T11:53:50Z,az://./train_features/vglr
+vjsb,San Sabastian de La Gomera,2020-08-23T11:53:50Z,az://./train_features/vjsb
+vpxo,Madagascar,2020-09-12T07:03:53Z,az://./train_features/vpxo
+vqth,Madagascar,2020-09-12T07:03:53Z,az://./train_features/vqth
+vrza,Madagascar,2020-09-12T07:03:53Z,az://./train_features/vrza
+vtam,Madagascar,2020-09-12T07:03:53Z,az://./train_features/vtam
+vybz,Beira,2020-09-12T07:55:45Z,az://./train_features/vybz
+vzem,Beira,2020-09-12T07:55:45Z,az://./train_features/vzem
+wkbd,Port Gentil,2020-09-08T09:50:58Z,az://./train_features/wkbd
+wkmn,Port Gentil,2020-09-08T09:50:58Z,az://./train_features/wkmn
+wlvj,Port Gentil,2020-09-08T09:50:58Z,az://./train_features/wlvj
+wmpx,Port Gentil,2020-09-08T09:50:58Z,az://./train_features/wmpx
+wssh,Mahajanga,2020-03-04T07:14:04Z,az://./train_features/wssh
+wwvv,Mahajanga,2020-03-04T07:14:04Z,az://./train_features/wwvv
+wzsm,Bor,2020-09-14T08:28:34Z,az://./train_features/wzsm
+xbab,Bor,2020-09-14T08:28:34Z,az://./train_features/xbab
+xcpj,Georgetown,2020-09-12T14:30:48Z,az://./train_features/xcpj
+xdkt,Georgetown,2020-09-12T14:30:48Z,az://./train_features/xdkt
+xeqh,Georgetown,2020-09-12T14:30:48Z,az://./train_features/xeqh
+xgzn,Georgetown,2020-09-12T14:30:48Z,az://./train_features/xgzn
+xpdf,Isiro,2020-08-28T08:39:29Z,az://./train_features/xpdf
+xsqu,Malemba Nkulu,2020-09-07T08:42:26Z,az://./train_features/xsqu
+xuco,Malemba Nkulu,2020-09-07T08:42:26Z,az://./train_features/xuco
+xvql,Sfax,2020-01-26T10:11:04Z,az://./train_features/xvql
+xyyq,Australia - Central,2020-08-11T01:24:00Z,az://./train_features/xyyq
+yaag,Australia - Central,2020-08-11T01:24:00Z,az://./train_features/yaag
+yccu,Australia - Central,2020-08-11T01:24:00Z,az://./train_features/yccu
+yccv,Australia - Central,2020-08-11T01:24:00Z,az://./train_features/yccv
+yemq,Australia - Central,2020-08-11T01:24:00Z,az://./train_features/yemq
+yftd,Tunis,2020-09-12T10:10:46Z,az://./train_features/yftd
+yfvz,Tunis,2020-09-12T10:10:46Z,az://./train_features/yfvz
+yhxl,Tunis,2020-09-12T10:10:46Z,az://./train_features/yhxl
+ynnl,Harare,2020-06-15T08:15:09Z,az://./train_features/ynnl
+yvzu,Santa Fe,2020-08-29T14:11:05Z,az://./train_features/yvzu
+yxlb,Santa Fe,2020-08-29T14:11:05Z,az://./train_features/yxlb
+zbjn,Lusaka,2020-04-19T08:24:38Z,az://./train_features/zbjn
+zvnk,Launceston,2020-09-06T00:08:20Z,az://./train_features/zvnk
+zxgd,Launceston,2020-09-06T00:08:20Z,az://./train_features/zxgd

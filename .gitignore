@@ -1,0 +1,17 @@
+# Virtual environments
+env/
+venv/
+.venv/
+myenv/
+cloud-env/
+
+# Logs, cache, and temp files
+*.log
+logs/
+gradio_cached_examples/
+gradio_tmp/
+checkpoints/
+outputs/
+runs/
+
+.ipynb_checkpoints/

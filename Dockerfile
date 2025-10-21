@@ -31,7 +31,7 @@ COPY . /app
 RUN pip install --no-cache-dir torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2
 RUN pip install --no-cache-dir segmentation-models-pytorch==0.3.3
 RUN pip install --no-cache-dir gradio==4.36.1
-RUN pip install --no-cache-dir numpy rasterio matplotlib scikit-learn pillow
+RUN pip install --no-cache-dir numpy==1.26.4 rasterio==1.4.3 matplotlib==3.10.7 scikit-learn==1.7.2 pillow==12.0.0
 
 # =============================
 # 6. Expose the Gradio port

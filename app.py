@@ -26,8 +26,8 @@ model = smp.Unet(
     classes=2
 )
 
-model.load_state_dict(torch.load("models/cloud_detector.pth", map_location='mps'))
-model = model.to("mps")
+model.load_state_dict(torch.load("models/cloud_detector.pth", map_location=device))
+model = model.to(device)
 
 model.eval()
 

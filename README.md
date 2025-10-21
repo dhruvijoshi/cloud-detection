@@ -61,4 +61,4 @@ Interactive Gradio-based web interface featuring:
 
 - **[Sentinel-2 Cloud Cover Detection Dataset](https://www.kaggle.com/datasets/willkoehrsen/sentinel2-drivendata-cloud-cover)** - Training data
 - **[segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)** - Model architecture framework
-- **ESA** - Sentinel-2 satellite imagery
+- **European Space Agency - ESA** - Sentinel-2 satellite imagery

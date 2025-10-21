@@ -4,6 +4,7 @@ import numpy as np
 from torchvision import transforms
 from PIL import Image
 import os
+import segmentation_models_pytorch as smp
 
 # Device setup
 if torch.backends.mps.is_available():
@@ -18,7 +19,16 @@ print(f"Using device: {device}")
 
 
 # Load model
-model = torch.load('models/cloud_detector.pth', map_location=device)
+model = smp.Unet(
+    encoder_name="resnet34",        
+    encoder_weights="imagenet",     
+    in_channels=4,
+    classes=2
+)
+
+model.load_state_dict(torch.load("models/cloud_detector.pth", map_location='mps'))
+model = model.to("mps")
+
 model.eval()
 
 
